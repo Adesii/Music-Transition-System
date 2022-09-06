@@ -1,0 +1,38 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	data = 
+	{
+		Tracks = 
+		[
+			{
+				Music = resource:"sounds/send to adesi 128bpm/mx_128bpm_1_startcombat.sound"
+				BPM = 128
+				BeatsPerMeasure = 4
+				Volume = 1
+				TransitionTime = 0.2
+			},
+			{
+				Music = resource:"sounds/send to adesi 128bpm/mx_128bpm_2_intermission.sound"
+				BPM = 128
+				BeatsPerMeasure = 4
+				Volume = 1
+				TransitionTime = 0.2
+			},
+			{
+				Music = resource:"sounds/send to adesi 128bpm/mx_128bpm_3_fullcombat.sound"
+				BPM = 128
+				BeatsPerMeasure = 4
+				Volume = 1
+				TransitionTime = 0.2
+			},
+			{
+				Music = resource:"sounds/send to adesi 128bpm/mx_128bpm_4_end.sound"
+				BPM = 128
+				BeatsPerMeasure = 4
+				Volume = 1
+				TransitionTime = 0.2
+			},
+		]
+		TransitionOnBeat = true
+	}
+}
