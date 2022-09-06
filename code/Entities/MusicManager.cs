@@ -12,7 +12,7 @@ public partial class MusicManager : Entity
 	public bool PlayOnStart { get; set; }
 
 	[Property]
-	public bool PlayOnlyOnLocalPlayer { get; set; }
+	public bool PlayOnlyOnLocalPlayer { get; set; } = true;
 
 	public override void Spawn()
 	{
